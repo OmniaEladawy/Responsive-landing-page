@@ -1,3 +1,3 @@
 # Responsive-landing-page
-responsive landing page 
-technologies : pure html,html5,css,css3 and pure responsive without any frameworks 
+Responsive Landing Page <br>
+Technologies : pure html,html5,css,css3 and pure responsive without any frameworks 
