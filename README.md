@@ -3,4 +3,4 @@ Responsive Landing Page <br>
 Technologies : pure html,html5,css,css3 and pure responsive without any frameworks 
 
 ### Live Preview :
-https://oeladawy.github.io/Responsive-landing-page/
+https://omniaeladawy.github.io/Responsive-landing-page/
